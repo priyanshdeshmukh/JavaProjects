@@ -1,0 +1,5 @@
+package com.objectmapper;
+
+public class CandidateID {
+
+}

@@ -1,0 +1,15 @@
+package com.objectmapper;
+
+public class CandidateID {
+	
+	private String candidateID;
+
+	public String getCandidateID() {
+		return candidateID;
+	}
+
+	public void setCandidateID(String candidateID) {
+		candidateID = candidateID;
+	}
+
+}

@@ -1,0 +1,24 @@
+package com.objectmapper;
+
+import java.io.IOException;
+
+import org.codehaus.jackson.JsonGenerationException;
+import org.codehaus.jackson.map.JsonMappingException;
+import org.codehaus.jackson.map.ObjectMapper;
+
+public class Main {
+	
+	private Main() {	
+	}
+	
+	public static void main(String[] args) throws JsonGenerationException, JsonMappingException, IOException {
+		
+		Address Address = new Address("Baner", "Pune", "MH", "01234");
+		Form form = new Form("John", "Doe", null, 29, true, Address);
+		ObjectMapper mapper = new ObjectMapper();
+		String json = mapper.writeValueAsString(candidate);
+		System.out.println(json);
+
+	}
+
+}

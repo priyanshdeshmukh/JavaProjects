@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/priyansh.deshmukh/.m2/repository/com/sun/mail/javax.mail/1.6.2/javax.mail-1.6.2.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="com.sun.mail"/>
+			<attribute name="maven.artifactId" value="javax.mail"/>
+			<attribute name="maven.version" value="1.6.2"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/priyansh.deshmukh/Downloads/JAVA Jars/mailactivation/activation.jar"/>
+	<classpathentry kind="lib" path="C:/Users/priyansh.deshmukh/Downloads/JAVA Jars/mailactivation/mail.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

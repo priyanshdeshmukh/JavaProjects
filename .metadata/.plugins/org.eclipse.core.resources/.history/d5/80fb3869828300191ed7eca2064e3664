@@ -1,0 +1,19 @@
+package com.json;
+
+public class Person {
+    private String firstName;
+    private String lastName;
+    private String alias;
+    private int age;
+    private boolean isMale;
+    private Address address;
+    public Person(String firstName, String lastName, String alias, int age, boolean isMale, Address address) {
+        this.firstName = firstName;
+        this.lastName = lastName;
+        this.alias = alias;
+        this.age = age;
+        this.isMale = isMale;
+        this.address = address;
+    }
+    public Person() {}
+}   

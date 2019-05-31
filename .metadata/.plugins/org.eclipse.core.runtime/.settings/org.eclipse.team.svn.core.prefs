@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+externalMigrateFromAuthorizationDatabase/isMigrated=true
+migrateFromAuthorizationDatabase/isMigrated=true
+repositories/209cf8daf26400191636a0baad973878=209cf8daf26400191636a0baad973878;https\://svn.harbingergroup.com/svn/TCServices/;https\://svn.harbingergroup.com/svn/TCServices/;branches;tags;trunk;true;7f1936a0-c1de-4041-a843-2f06d578520a;https\://svn.harbingergroup.com/svn/TCServices;;false;;;0
+repositories/60d9993ccdb000181669fcefceead9e6=60d9993ccdb000181669fcefceead9e6;https\://svn.harbingergroup.com/svn/SkillsInventory;https\://svn.harbingergroup.com/svn/SkillsInventory;branches;tags;trunk;true;3421e27b-065a-7b41-bdd3-aa2ad0257925;https\://svn.harbingergroup.com/svn/SkillsInventory;;false;;;0
