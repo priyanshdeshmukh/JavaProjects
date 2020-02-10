@@ -26,7 +26,6 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 
 import org.quartz.spi.ClassLoadHelper;
-import org.slf4j.Logger;
 
 /**
  * <p>
