@@ -30,7 +30,6 @@ import java.sql.SQLException;
 
 import org.quartz.Calendar;
 import org.quartz.JobDetail;
-import org.quartz.spi.ClassLoadHelper;
 import org.quartz.spi.OperableTrigger;
 import org.slf4j.Logger;
 
